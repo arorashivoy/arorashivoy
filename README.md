@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi 👋, I'm Shivoy Arora
 
-<!--
-**arorashivoy/arorashivoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A hobbyist coder and a student
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=arorashivoy&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Currently attempting Advent of code 2021 in python
+* Worked with **SwiftUI, Python, C++/C, firebase, Raspberry Pi , Arduino, Linux OS**
+
+### How to reach me - [LinkTree](https://linktr.ee/allaboutshivoy)
+
+
+[![Shivoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=arorashivoy&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
