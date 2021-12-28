@@ -9,6 +9,7 @@
 
 ### How to reach me - [LinkTree](https://linktr.ee/allaboutshivoy)
 
+## 📈 Github Stats
 
 [![Shivoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=arorashivoy&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
