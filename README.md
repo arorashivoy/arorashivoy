@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=arorashivoy&color=blue)
 
 * Currently attempting Advent of code 2021 in python
-* Worked with **SwiftUI, Python, C++/C, firebase, Raspberry Pi , Arduino, Linux OS**
+* Worked with **SwiftUI, Python, C++/C, Google Firebase, Raspberry Pi , Arduino, Linux OS**
 
 ### How to reach me - [LinkTree](https://linktr.ee/allaboutshivoy)
 
