@@ -11,6 +11,6 @@
 
 ## 📈 Github Stats
 
-[![Shivoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=arorashivoy&hide=contribs,prs&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-![Shivoy Arora](https://github-readme-streak-stats.herokuapp.com?user=arorashivoy&theme=react)
-![Shivoy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arorashivoy&layout=compact&show_icons=true&theme=react)
+[![Shivoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=arorashivoy&hide=contribs,prs&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
+![Shivoy Arora](https://github-readme-streak-stats.herokuapp.com?user=arorashivoy&theme=react)  
+![Shivoy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arorashivoy&layout=compact&show_icons=true&theme=react)  
