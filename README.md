@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shivoy Arora
 
-## A hobbyist coder and a student
+## A hobbyist coder and a student at IIITD
 
 ![](https://komarev.com/ghpvc/?username=arorashivoy&color=blue&style=flat-square)
 
