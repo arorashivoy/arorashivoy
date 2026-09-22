@@ -2,7 +2,9 @@
 
 Software Analyst at Goldman Sachs, Global Banking & Markets — securities lending technology.
 
-I build automation for production financial systems: pipelines that locate code, change it, and prove the change is safe before it ships. Most of my interest is in the verification half — a system that edits code is only as good as the harness that catches it when it is wrong.
+I build automation for production financial systems: pipelines that locate the affected code, apply the change, and validate it end to end before it ships. Deployed across about a dozen production applications, where it took QA validation from roughly a week to a couple of hours.
+
+Outside that, most of what I build is robotics and machine learning — the projects below.
 
 **Day to day:** Java · Spring Boot · Python · Apache Kafka · IBM Db2 · Sybase · SQL · REST · CI
 
@@ -11,6 +13,10 @@ I build automation for production financial systems: pipelines that locate code,
 ### Worth a look
 
 - **[ros-maze-solver](https://github.com/arorashivoy/ros-maze-solver)** — ROS 2 Humble workspace for a differential-drive robot: wall-following control, LiDAR mapping with slam_toolbox, Nav2 path planning. Runs headless on Apple Silicon, with a synthetic LaserScan publisher to work around Ignition's GPU-bound LiDAR sensor.
+- **[LInkingMathsSymbols](https://github.com/arorashivoy/LInkingMathsSymbols)** — SemEval-2022 Task 12: linking mathematical symbols in papers to the text that defines them. Span tagging with SciDeBERTa, then entity-pair relation classification with LUKE.
+- **[CustomAssembler](https://github.com/arorashivoy/CustomAssembler)** — a two-pass assembler and cycle-stepping simulator for a custom 16-bit ISA, written from scratch in Python.
+- **[FileCompressor](https://github.com/arorashivoy/FileCompressor)** — Huffman compression in C with no libraries: the min-heap, the tree, the bit packing and the bit reader are all hand-written.
+- **[iTouch](https://marketplace.visualstudio.com/items?itemName=arorashivoy.itouch)** — MacBook Touch Bar buttons for VS Code. On the Marketplace, 246 installs.
 - **[StrikeOut](https://github.com/arorashivoy/StrikeOut)** — iOS task manager, SwiftUI + AVFoundation. Shipped to the App Store, 400+ downloads.
 
 ### Elsewhere
