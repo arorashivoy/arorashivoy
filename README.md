@@ -17,7 +17,7 @@ Outside that, most of what I build is robotics and machine learning — the proj
 - **[CustomAssembler](https://github.com/arorashivoy/CustomAssembler)** — a two-pass assembler and cycle-stepping simulator for a custom 16-bit ISA, written from scratch in Python.
 - **[FileCompressor](https://github.com/arorashivoy/FileCompressor)** — Huffman compression in C with no libraries: the min-heap, the tree, the bit packing and the bit reader are all hand-written.
 - **[iTouch](https://marketplace.visualstudio.com/items?itemName=arorashivoy.itouch)** — MacBook Touch Bar buttons for VS Code. On the Marketplace, 246 installs.
-- **[StrikeOut](https://github.com/arorashivoy/StrikeOut)** — iOS task manager, SwiftUI + AVFoundation. Shipped to the App Store, 400+ downloads.
+- **[StrikeOut](https://github.com/arorashivoy/StrikeOut)** — iOS task manager, SwiftUI + AVFoundation. Shipped to the App Store, where it passed 400 downloads before I let the developer subscription lapse.
 
 ### Elsewhere
 
