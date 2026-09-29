@@ -2,7 +2,7 @@
 
 Software Analyst at Goldman Sachs, Global Banking & Markets — securities lending technology.
 
-I build automation for production financial systems: pipelines that locate the affected code, apply the change, and validate it end to end before it ships. Deployed across about a dozen production applications, where it took QA validation from roughly a week to a couple of hours.
+I built a Python validator that verifies technology-risk remediations across about a dozen production Java and Spring Boot applications, confirming that each update was made correctly and validating it end to end in QA. I also develop and support the team's Kafka Streams applications.
 
 Outside that, most of what I build is robotics and machine learning — the projects below.
 
